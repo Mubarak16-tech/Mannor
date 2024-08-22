@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+.logo{
+    width: 70px;
+    height: 50px;
+
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+
+.image{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    flex-direction: row;
+    gap: 40px;
+}
+.bottom{
+    background-color: black;
+}
+h2{
+    color: white;
+}
