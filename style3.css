@@ -26,7 +26,7 @@ h3{
 
 @media screen and (min-width:768px) and (max-width:1199px){
     body{
-        background-color: gray;
+        background-color: yellow;
     }
     .logo{
         width: 70px;
@@ -61,7 +61,7 @@ h3{
     }
     div{
         background-color: white;
-        width: 3f00px;
+        width: 300px;
         height: 300px;
         display: grid;
         grid-template-columns: repeat(2,1fr);
@@ -107,7 +107,7 @@ h3{
 
 }
 @media screen and (min-width:320px) and (max-width:374px){body{
-    background-color: gray;
+    background-color: red;
 }
 .logo{
     width: 70px;
