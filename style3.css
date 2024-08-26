@@ -107,7 +107,7 @@ h3{
 
 }
 @media screen and (min-width:320px) and (max-width:374px){body{
-    background-color: yellow;
+    background-color: gray;
 }
 .logo{
     width: 70px;
