@@ -53,7 +53,7 @@ h3{
 }
 @media screen and (min-width:425px) and (max-width:767px){
     body{
-        background-color: gray;
+        background-color: blue;
     }
     .logo{
         width: 70px;
@@ -80,7 +80,7 @@ h3{
 
 }
 @media screen and (min-width:375px) and (max-width:424px){body{
-    background-color: gray;
+    background-color: green;
 }
 .logo{
     width: 70px;
@@ -107,7 +107,7 @@ h3{
 
 }
 @media screen and (min-width:320px) and (max-width:374px){body{
-    background-color: gray;
+    background-color: yellow;
 }
 .logo{
     width: 70px;
